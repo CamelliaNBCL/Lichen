@@ -1,0 +1,7 @@
+{
+  "name": "Lichen Particle Control",
+  "description": "An immersive 3D particle system with organic lichen aesthetics, featuring a gesture-dashboard and glassmorphism UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
